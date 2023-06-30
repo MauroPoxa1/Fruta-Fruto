@@ -48,3 +48,7 @@ Estilizando o card dos posts, fiz do meu propio jeito!
 # aula 11/12 quem somos
 
 Criando quem somos do site e upando aquivos css
+
+# aula 13/14/15 footer e melhorias
+
+Criação de rodape do site e melhorias no banner...

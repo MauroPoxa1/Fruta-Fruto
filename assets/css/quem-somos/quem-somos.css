@@ -4,17 +4,17 @@
 
 }
 .quem-somos__titulo{
-    margin: 1rem 0;
+     color: #8D0606;  
     font-size: 3.48rem;
-    color: #8D0606;
     font-family: Pacifico, cursive;
+    margin: 1rem 0;
     text-align: center;
 }
 .quem-somos__descricao{
- font-size: 1.5rem;
- color: #8C8888;
- text-align: center;
- margin-bottom: .5rem;
+    color: #8C8888;
+    font-size: 1.5rem;
+    margin-bottom: .5rem;
+    text-align: center;
 }
 .pessoas {
     display: flex;
@@ -26,30 +26,28 @@
 .pessoa{
  display: flex;
  flex-direction: column;
- width: 25%;
+
 }
 .pessoa__imagem {
-    width: 300px;
-    height: 300px;
-    margin: 0 auto;
-    border-radius: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
-
+    border-radius: 100%;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
 }
 .pessoa__nome{
-    margin: 1rem 0;
     color: #8D0606;
     font-family: Pacifico, cursive;
     font-size: 2rem;
+    margin: 1rem 0;
+
 }
 .pessoa__funcao{
-    text-transform: lowercase;
     color: #595959;
     font-size: 1.25rem;
-
+    text-transform: lowercase;
 }
 
 .pessoa__imagem--roberta{

@@ -1,0 +1,22 @@
+.rodape{
+ background: #C4C4C4;
+ gap: 10px;
+ align-items: center;
+ justify-content: flex-end;
+ padding: 1rem 5rem;
+ display: flex;
+ 
+}
+
+.rodape__titulo{
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-transform: lowercase;
+}
+
+.rodape__quadrado{
+    background: #8D0606;
+    height: 3.7rem;
+    width: 3.7rem;
+}
