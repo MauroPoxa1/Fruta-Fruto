@@ -45,3 +45,6 @@ estilizando o sobre e ajustando o banner.
 
 Estilizando o card dos posts, fiz do meu propio jeito!
 
+# aula 11/12 quem somos
+
+Criando quem somos do site e upando aquivos css
