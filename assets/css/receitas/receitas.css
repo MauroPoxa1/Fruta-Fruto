@@ -46,7 +46,7 @@
 
 @media screen and (min-width:0) {
     .receitas{
-        padding: 2rem;
+        padding: 2rem 0;
         gap: 25px;
         }
     .receita{
@@ -58,17 +58,29 @@
 }
 @media screen and (min-width:430px) {
     .receitas{
-        padding: 2rem;
+        padding: 2rem 1rem;
         gap: 50px;
         }
     .receita{
-        width: 50%;
+        width: 80%;
     }
     .receita__conteudo{
         padding: 1.2rem;
     }
 }
 @media screen and (min-width:768px) {
+    .receitas{
+        padding: 2rem 1.5rem;
+        gap: 50px;
+        }
+    .receita{
+        width: 40%;
+    }
+    .receita__conteudo{
+        padding: 1.2rem;
+    }
+}
+@media screen and (min-width:920px) {
     .receitas{
         padding: 2rem;
         gap: 100px;
