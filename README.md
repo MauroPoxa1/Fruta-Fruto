@@ -52,3 +52,8 @@ Criando quem somos do site e upando aquivos css
 # aula 13/14/15 footer e melhorias
 
 Criação de rodape do site e melhorias no banner...
+
+
+# Final Subindo stylo mobole
+
+Trabalhando na responsividade do site

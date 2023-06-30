@@ -5,3 +5,27 @@
     justify-content: space-between;
     padding: 0 2rem;
 }
+
+.cabecario__imagem{
+
+}
+
+
+@media screen and (min-width:0) {
+    .cabecario {
+        padding: 0 1rem;
+        justify-content: center;
+    }
+    .cabecario__imagem{
+     width: 40px;
+    }
+}
+@media screen and (min-width:768px) {
+    .cabecario {
+        padding: 0 5rem;
+        justify-content: space-between;
+    }
+    .cabecario__imagem{
+        width: auto;
+       }
+}

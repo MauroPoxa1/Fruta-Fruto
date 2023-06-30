@@ -25,3 +25,14 @@
 .menu-link:hover {
     text-decoration: underline;
 }
+
+@media screen and (min-width:0) {
+    .menu-link{
+        font-size: 0.6rem;
+    }
+}
+@media screen and (min-width:768px) {
+    .menu-link{
+        font-size: 1rem;
+    }
+}
