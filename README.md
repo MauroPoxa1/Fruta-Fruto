@@ -36,3 +36,12 @@ Criando o banner e o html do sobre!
 # aula 6 melhorias banner
 
 Melhorias no css do banner.
+
+# aula 7/8 sobre
+
+estilizando o sobre e ajustando o banner.
+
+# aula 9/10 card
+
+Estilizando o card dos posts, fiz do meu propio jeito!
+
