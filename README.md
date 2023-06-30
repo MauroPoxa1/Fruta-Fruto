@@ -29,6 +29,10 @@ Estilisando o header!
 
 Melhorias na organisação, adicionando class e aquivos css.
 
-# aule 5 html banner e menu
+# aula 5 html banner e menu
 
 Criando o banner e o html do sobre!
+
+# aula 6 melhorias banner
+
+Melhorias no css do banner.
