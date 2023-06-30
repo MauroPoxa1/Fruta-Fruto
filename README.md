@@ -18,3 +18,7 @@ Nome do site: Fruta & Fruto
 
 #fim aula 1#
 Não modificamos nada apenas explicação.
+
+#Aula 2 criamos o Header#
+
+Só o html!
