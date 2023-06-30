@@ -22,3 +22,7 @@ Não modificamos nada apenas explicação.
 #Aula 2 criamos o Header#
 
 Só o html!
+
+"Aula 3 Style"
+
+Estilisando o header!
