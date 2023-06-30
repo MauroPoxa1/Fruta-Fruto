@@ -1,6 +1,5 @@
-#
-Aula curso de Arquitetura CSS descomplicando os problemas
-#
+#Aula curso de Arquitetura CSS descomplicando os problemas
+
 ```
  arquitetura-css
 ```
