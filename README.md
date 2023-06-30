@@ -24,3 +24,7 @@ Só o html!
 # Aula 3 Style
 
 Estilisando o header!
+
+# aula 4 melhorias
+
+Melhorias na organisação, adicionando class e aquivos css.
